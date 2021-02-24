@@ -1,0 +1,6 @@
+packages/*
+.vs/*
+TarkovBullets/bin/*
+TarkovBullets/obj/*
+TarkovTester/bin/*
+TarkovTester/obj/*
